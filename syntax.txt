@@ -1,0 +1,30 @@
+Begin program
+    "In the Name of the Father, and of the Son, and of the Holy  
+    Spirit. Amen."
+
+    First words until the first Amen is a comment. The first Amen starts the code
+
+For loops
+    "(Thrice) (Twice) (Once)" creates a simple for loop. The code that is executed
+    is on the same line then with one of these keywords at the end.
+
+    Maybe (1x) (2x) (?x) instead for ease of use
+
+
+How to create vars?
+    "Through the prayers of {Name of var}"
+
+How to assign a variable?
+    Using nouns and adjectives to create numbers, similar to the shakespeare programming language
+
+    (Positive/Negative depending on the tone)
+    Adjective = 2x
+    Noun = 1 
+
+        Holy, holy, holy = 8
+        God, my god = 2 (ignore pronouns)
+        Sin = -1
+        Sinful = -2x
+        
+
+
